@@ -1,0 +1,20 @@
+.small-card{
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.small-card-img{
+  border-radius: 10px;
+
+}
+.small-card-title{
+  color: #333333;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 22px;
+  margin: 10px 0px;
+}
+.small-card-body{
+  font-family: 'Poppins', sans-serif;
+  color: #868B95;
+}

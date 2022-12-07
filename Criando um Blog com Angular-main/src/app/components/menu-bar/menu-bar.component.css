@@ -1,0 +1,30 @@
+.menu-bar{
+  font-family: 'Hammersmith One', sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+}
+
+.menu-bar-left{
+  list-style: none;
+}
+.menu-bar-left img{
+  /* width: 50px; */
+  height: 35px;
+}
+
+.menu-bar-right li{
+  display: inline-block;
+  padding:10px;
+}
+
+.menu-bar a{
+  text-decoration: none;
+  color: #939393;
+}
+
+.menu-bar a:hover{
+  color: #E66591;
+  /* text-decoration: underline; */
+  border-bottom: 1px #E66591 solid;
+}

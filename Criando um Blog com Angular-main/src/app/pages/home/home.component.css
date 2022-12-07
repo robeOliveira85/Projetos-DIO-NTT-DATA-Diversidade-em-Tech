@@ -1,0 +1,12 @@
+
+.small-cards{
+  display: flex;
+  justify-content: space-between;
+
+  padding: 20px 80px;
+
+}
+
+.small-card{
+  width: 33%;
+}

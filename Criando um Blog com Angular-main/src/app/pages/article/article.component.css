@@ -1,0 +1,32 @@
+
+.article{
+  padding: 10px 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.article-img{
+  border-radius: 10px;
+
+}
+.article-title{
+  color: #333333;
+  font-family: 'Quicksand', sans-serif;
+  font-size: 22px;
+  margin: 10px 0px;
+}
+.article-body{
+  font-family: 'Poppins', sans-serif;
+  color: #868B95;
+  text-align: justify;
+}
+
+hr {
+  margin: 25px 15px;
+  border: 1px #868B95 solid;
+  color: #868B95;
+}
+
+.link-voltar{
+  text-align: center;
+}

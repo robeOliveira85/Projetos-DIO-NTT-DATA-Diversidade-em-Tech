@@ -1,0 +1,32 @@
+.descriptionAbout {
+    padding: 4rem;
+}
+
+.descriptionAbout h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+.containerVideo {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 4rem 0 4rem;
+}
+
+.containerText {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.containerText h2 {
+    color: #018abe;
+    font-weight: bold;
+    font-size: 2rem;
+    width: 10vw;
+}
+
+.containerText h3 {
+    font-size: 1.5rem;
+    color: #001b4b;
+}
